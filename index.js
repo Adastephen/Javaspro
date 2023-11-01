@@ -11,3 +11,4 @@ function myName() {
 function rite(){
     document.getElementById('inone').innerHTML ='It is amazing in the following orders';
 }
+console.log(3 + 5);
